@@ -1,4 +1,4 @@
-# test-project
+# SecondVueProject
 
 > A Vue.js project
 
